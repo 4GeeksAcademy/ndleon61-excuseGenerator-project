@@ -1,5 +1,14 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+#buttonExcuse{
+    margin: 10px auto;
+    width: auto;
+
 }
+#card-body{
+    width: 18rem; 
+    margin-top: 30px; 
+    width: 400px; 
+    text-align: center;
+}
+
